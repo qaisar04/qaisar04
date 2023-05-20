@@ -1,16 +1,25 @@
-### Hi there 👋
+# Мой GitHub профиль
+<div class="fa-3x">
+  <i class="fa-solid fa-spinner fa-spin-pulse"></i>
+  <i class="fa-solid fa-spinner fa-spin-pulse fa-spin-reverse"></i>
+</div>
+Здесь вы можете найти информацию о моем профиле на GitHub.
 
-<!--
-**qaisar04/qaisar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
 
-Here are some ideas to get you started:
+Привет! Я разработчик, увлеченный программированием. Я стараюсь постоянно улучшать свои навыки и изучать новые технологии.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Обучение
+
+- Основы программирования - Университет XYZ (2022)
+
+## Каталог знаний
+
+### Python
+
+Основы языка программирования Python.
+
+## Социальные сети
+
+- [Telegram](http://t.me/qaisar004)
+- [Twitter](https://www.twitter.com/your_profile)
