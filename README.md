@@ -11,15 +11,16 @@
 
 ## Обучение
 
-- Основы программирования - Университет XYZ (2022)
+- Al-Farabi Kazakh National University
 
 ## Каталог знаний
 
-### Python
+### C# JAVA C++ HTML CSS
 
-Основы языка программирования Python.
 
 ## Социальные сети
 
 - [Telegram](http://t.me/qaisar004)
-- [Twitter](https://www.twitter.com/your_profile)
+- [Twitter](https://twitter.com/qaisarbv)
+- [![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=social)](https://github.com/your_profile)
+
