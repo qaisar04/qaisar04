@@ -15,8 +15,12 @@ Java | C# | Spring FrameWork | HTML | CSS | SQL
 
 Я готов к новым вызовам и постоянно ищу возможности для совершенствования. Я открыт для коллабораций и готов принять участие в интересных проектах. С нетерпением жду новых возможностей для расширения своего опыта и общения с сообществом разработчиков.
 
-<img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif" width="408" height="318" />
-</br>
+![шашлык](https://raw.githubusercontent.com/qaisar04/img/6f8dd863ca065162bdab03d569cc30244bb7631a/47tv.gif)
+
+
+
+
+
 
 
 
