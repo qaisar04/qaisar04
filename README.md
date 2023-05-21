@@ -7,7 +7,7 @@ Hi there  👋
 
 ✨ Kazakh National University named Al-Farabi (1st course)
 
-### Skills
+### Skills:
 Java | C# | Spring FrameWork | HTML | CSS | SQL 
 
 ### Связаться со мной:
